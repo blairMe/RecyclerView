@@ -26,4 +26,8 @@ class MainActivity : AppCompatActivity() {
         recyclerview.adapter = CustomAdapter(fImages, fNames, fDes)
 
     }
+
+    fun forfun() {
+        //Useless function
+    }
 }
