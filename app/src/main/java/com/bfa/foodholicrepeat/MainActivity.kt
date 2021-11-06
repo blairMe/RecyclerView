@@ -27,7 +27,4 @@ class MainActivity : AppCompatActivity() {
 
     }
 
-    fun forfun() {
-        //Useless function
-    }
 }
